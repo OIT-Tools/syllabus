@@ -4,7 +4,7 @@
 [![Scraping](https://github.com/OIT-Tools/syllabus/actions/workflows/Scraping.yaml/badge.svg)](https://github.com/OIT-Tools/syllabus/actions/workflows/Scraping.yaml)  
 
 大阪工業大学**非公式**のシラバスアプリです  
-2022/02/19
+2022/02/20
 時点での
 [大阪工業大学公式シラバス](https://www.oit.ac.jp/japanese/syllabus/index.html)
 のデータに基づきます  
