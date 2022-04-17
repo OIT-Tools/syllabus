@@ -1244,7 +1244,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "マーティンヤオク",
+        "tantousya": "\"\"",
         "numbering": "A1C003B1",
         "gakka": "A",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003B1&value(crclumcd)=10201200"
@@ -1254,7 +1254,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "ジョナサンワトソン",
+        "tantousya": "\"\"",
         "numbering": "A1C003B2",
         "gakka": "A",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003B2&value(crclumcd)=10201200"
@@ -1264,7 +1264,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C003B3",
         "gakka": "A",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003B3&value(crclumcd)=10201200"
@@ -1284,7 +1284,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "マーティンヤオク",
+        "tantousya": "\"\"",
         "numbering": "A1C004B1",
         "gakka": "A",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004B1&value(crclumcd)=10201200"
@@ -1294,7 +1294,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "ジョナサンワトソン",
+        "tantousya": "\"\"",
         "numbering": "A1C004B2",
         "gakka": "A",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004B2&value(crclumcd)=10201200"
@@ -1304,7 +1304,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C004B3",
         "gakka": "A",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004B3&value(crclumcd)=10201200"
@@ -2874,7 +2874,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "ジェイミーキット",
+        "tantousya": "\"\"",
         "numbering": "A1C003A2",
         "gakka": "C",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003A2&value(crclumcd)=10201200"
@@ -2904,7 +2904,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "ジェイミーキット",
+        "tantousya": "\"\"",
         "numbering": "A1C004A2",
         "gakka": "C",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004A2&value(crclumcd)=10201200"
@@ -3338,6 +3338,16 @@
         "numbering": "A3C029A0 A3C033A0",
         "gakka": "C",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C029A0&value(crclumcd)=10201200"
+    },
+    {
+        "kougi": "キャリアデザイン<C科>",
+        "nenji": "1",
+        "tani": "1",
+        "kikan": "前期",
+        "tantousya": "大山理 今川雄亮 藤本哲生 西堀泰英",
+        "numbering": "AYC002A0",
+        "gakka": "C",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=AYC002A0&value(crclumcd)=10201200"
     },
     {
         "kougi": "キャリアデザイン<C科>",
@@ -4144,7 +4154,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C003F1",
         "gakka": "D",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003F1&value(crclumcd)=10201200"
@@ -4154,7 +4164,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "ジェイミーキット",
+        "tantousya": "\"\"",
         "numbering": "A1C003F2",
         "gakka": "D",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003F2&value(crclumcd)=10201200"
@@ -4174,7 +4184,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C004F1",
         "gakka": "D",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004F1&value(crclumcd)=10201200"
@@ -4184,7 +4194,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "ジェイミーキット",
+        "tantousya": "\"\"",
         "numbering": "A1C004F2",
         "gakka": "D",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004F2&value(crclumcd)=10201200"
@@ -5474,7 +5484,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "ジョナサンワトソン",
+        "tantousya": "\"\"",
         "numbering": "A1C003D2",
         "gakka": "E",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003D2&value(crclumcd)=10201200"
@@ -5494,7 +5504,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "ジョナサンワトソン",
+        "tantousya": "\"\"",
         "numbering": "A1C004D2",
         "gakka": "E",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004D2&value(crclumcd)=10201200"
@@ -5718,6 +5728,16 @@
         "numbering": "A3C005D1",
         "gakka": "E",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C005D1&value(crclumcd)=10201200"
+    },
+    {
+        "kougi": "解析学III演習(エンジニアリング系)イ組<E科>",
+        "nenji": "1",
+        "tani": "1",
+        "kikan": "後期",
+        "tantousya": "岸本健吾",
+        "numbering": "A3C006D0",
+        "gakka": "E",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C006D0&value(crclumcd)=10201200"
     },
     {
         "kougi": "解析学III演習(エンジニアリング系)ロ組<E科>",
@@ -6054,7 +6074,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C003D1",
         "gakka": "E",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003D1&value(crclumcd)=10201200"
@@ -6064,20 +6084,10 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C004D1",
         "gakka": "E",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004D1&value(crclumcd)=10201200"
-    },
-    {
-        "kougi": "解析学III演習(エンジニアリング系)イ組<E科>",
-        "nenji": "1",
-        "tani": "1",
-        "kikan": "後期",
-        "tantousya": "岸本健吾",
-        "numbering": "A3C006D0",
-        "gakka": "E",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C006D0&value(crclumcd)=10201200"
     },
     {
         "kougi": "組み込みシステム基礎",
@@ -7244,7 +7254,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "後期",
-        "tantousya": "鎌倉良成 光田憲朗",
+        "tantousya": "鎌倉良成 田口元久",
         "numbering": "1EAB05A0 1EAB05B0",
         "gakka": "I",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=1EAB05A0&value(crclumcd)=10201200"
@@ -8724,6 +8734,16 @@
         "nenji": "2",
         "tani": "1",
         "kikan": "前期",
+        "tantousya": "古樋直己",
+        "numbering": "B1C007B0 B1C007C0 B1C007E0 B1C007G0",
+        "gakka": "I",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=B1C007B0&value(crclumcd)=10201200"
+    },
+    {
+        "kougi": "英語表現(basic2)a",
+        "nenji": "2",
+        "tani": "1",
+        "kikan": "前期",
         "tantousya": "田岡育恵",
         "numbering": "B1C007F0",
         "gakka": "I",
@@ -8764,6 +8784,16 @@
         "nenji": "2",
         "tani": "1",
         "kikan": "後期",
+        "tantousya": "古樋直己",
+        "numbering": "B1C008B0 B1C008C0 B1C008E0 B1C008G0",
+        "gakka": "I",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=B1C008B0&value(crclumcd)=10201200"
+    },
+    {
+        "kougi": "英語表現(basic2)b",
+        "nenji": "2",
+        "tani": "1",
+        "kikan": "後期",
         "tantousya": "田岡育恵",
         "numbering": "B1C008F0",
         "gakka": "I",
@@ -8794,7 +8824,7 @@
         "nenji": "2",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "ガブリエルポーラス",
+        "tantousya": "ステファニーベリー",
         "numbering": "B1C009A0 B1C009B0",
         "gakka": "I",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=B1C009A0&value(crclumcd)=10201200"
@@ -8814,7 +8844,7 @@
         "nenji": "2",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "ガブリエルポーラス",
+        "tantousya": "ステファニーベリー",
         "numbering": "B1C010A0 B1C010B0",
         "gakka": "I",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=B1C010A0&value(crclumcd)=10201200"
@@ -9333,7 +9363,7 @@
         "kougi": "生徒指導と進路指導",
         "nenji": "2",
         "tani": "2",
-        "kikan": "後期",
+        "kikan": "前期集中",
         "tantousya": "恩庄澄 辰巳育男",
         "numbering": "BTD022A1",
         "gakka": "I",
@@ -9714,7 +9744,7 @@
         "nenji": "3",
         "tani": "2",
         "kikan": "後期",
-        "tantousya": "村田理尚 小林久芳",
+        "tantousya": "村田理尚",
         "numbering": "14CB06A0",
         "gakka": "K",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=14CB06A0&value(crclumcd)=10201200"
@@ -9870,6 +9900,16 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=14CC06A0&value(crclumcd)=10201200"
     },
     {
+        "kougi": "物性化学",
+        "nenji": "2",
+        "tani": "2",
+        "kikan": "後期",
+        "tantousya": "森内隆代",
+        "numbering": "14CC07A0",
+        "gakka": "K",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=14CC07A0&value(crclumcd)=10201200"
+    },
+    {
         "kougi": "錯体・有機金属",
         "nenji": "2",
         "tani": "2",
@@ -10020,16 +10060,6 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=14CD10A0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "物性化学",
-        "nenji": "2",
-        "tani": "2",
-        "kikan": "後期",
-        "tantousya": "森内隆代",
-        "numbering": "14CC07A0",
-        "gakka": "K",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=14CC07A0&value(crclumcd)=10201200"
-    },
-    {
         "kougi": "世界と人間<K科>",
         "nenji": "1",
         "tani": "2",
@@ -10154,7 +10184,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "マーセルハルタルド",
+        "tantousya": "\"\"",
         "numbering": "A1C003G1",
         "gakka": "K",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003G1&value(crclumcd)=10201200"
@@ -10164,7 +10194,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "マーティンヤオク",
+        "tantousya": "\"\"",
         "numbering": "A1C003G2",
         "gakka": "K",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003G2&value(crclumcd)=10201200"
@@ -10194,7 +10224,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "マーセルハルタルド",
+        "tantousya": "\"\"",
         "numbering": "A1C004G1",
         "gakka": "K",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004G1&value(crclumcd)=10201200"
@@ -10204,7 +10234,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "マーティンヤオク",
+        "tantousya": "\"\"",
         "numbering": "A1C004G2",
         "gakka": "K",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004G2&value(crclumcd)=10201200"
@@ -10454,7 +10484,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "後期",
-        "tantousya": "川崎菜穂",
+        "tantousya": "\"\"",
         "numbering": "A3C003G1",
         "gakka": "K",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C003G1&value(crclumcd)=10201200"
@@ -11654,7 +11684,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "ジェイミーキット",
+        "tantousya": "\"\"",
         "numbering": "A1C003C2",
         "gakka": "M",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003C2&value(crclumcd)=10201200"
@@ -11664,7 +11694,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C003C3",
         "gakka": "M",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003C3&value(crclumcd)=10201200"
@@ -11694,7 +11724,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "ジェイミーキット",
+        "tantousya": "\"\"",
         "numbering": "A1C004C2",
         "gakka": "M",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004C2&value(crclumcd)=10201200"
@@ -11704,7 +11734,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C004C3",
         "gakka": "M",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004C3&value(crclumcd)=10201200"
@@ -15460,6 +15490,16 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A0C001H0&value(crclumcd)=10201200"
     },
     {
+        "kougi": "世界と人間<U科>",
+        "nenji": "1",
+        "tani": "2",
+        "kikan": "前期",
+        "tantousya": "大谷真弓 松浦清",
+        "numbering": "A0C001J0",
+        "gakka": "Q",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A0C001J0&value(crclumcd)=10201200"
+    },
+    {
         "kougi": "文章表現基礎<V科>",
         "nenji": "1",
         "tani": "2",
@@ -15764,7 +15804,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "マーティンヤオク",
+        "tantousya": "\"\"",
         "numbering": "A1C003H1",
         "gakka": "Q",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003H1&value(crclumcd)=10201200"
@@ -15774,7 +15814,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C003J0",
         "gakka": "Q",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003J0&value(crclumcd)=10201200"
@@ -15784,7 +15824,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "ジョナサンワトソン",
+        "tantousya": "\"\"",
         "numbering": "A1C003J1",
         "gakka": "Q",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C003J1&value(crclumcd)=10201200"
@@ -15804,7 +15844,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "マーティンヤオク",
+        "tantousya": "\"\"",
         "numbering": "A1C004H1",
         "gakka": "Q",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004H1&value(crclumcd)=10201200"
@@ -15814,7 +15854,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "デイビッド エスリッジ",
+        "tantousya": "\"\"",
         "numbering": "A1C004J0",
         "gakka": "Q",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004J0&value(crclumcd)=10201200"
@@ -15824,7 +15864,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "ジョナサンワトソン",
+        "tantousya": "\"\"",
         "numbering": "A1C004J1",
         "gakka": "Q",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A1C004J1&value(crclumcd)=10201200"
@@ -17180,6 +17220,16 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=ATD0121A&value(crclumcd)=10201200"
     },
     {
+        "kougi": "理科教育法d",
+        "nenji": "4",
+        "tani": "2",
+        "kikan": "前期",
+        "tantousya": "田中謙介",
+        "numbering": "ATD0131A",
+        "gakka": "Q",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=ATD0131A&value(crclumcd)=10201200"
+    },
+    {
         "kougi": "工業科教育法a",
         "nenji": "3",
         "tani": "2",
@@ -17300,16 +17350,6 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=ATD0281A&value(crclumcd)=10201200"
     },
     {
-        "kougi": "キャリアデザイン<C科>",
-        "nenji": "1",
-        "tani": "1",
-        "kikan": "前期",
-        "tantousya": "大山理 今川雄亮 藤本哲生 西堀泰英",
-        "numbering": "AYC002A0",
-        "gakka": "Q",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=AYC002A0&value(crclumcd)=10201200"
-    },
-    {
         "kougi": "キャリアデザイン<V科>",
         "nenji": "1",
         "tani": "1",
@@ -17420,14 +17460,24 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=AYC005J0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "理科教育法d",
-        "nenji": "4",
-        "tani": "2",
-        "kikan": "前期",
-        "tantousya": "田中謙介",
-        "numbering": "ATD0131A",
+        "kougi": "グローバルテクノロジー論a",
+        "nenji": "1",
+        "tani": "1",
+        "kikan": "集中",
+        "tantousya": "授業担当者",
+        "numbering": "AYC006A0",
         "gakka": "Q",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=ATD0131A&value(crclumcd)=10201200"
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=AYC006A0&value(crclumcd)=10201200"
+    },
+    {
+        "kougi": "グローバルテクノロジー論b",
+        "nenji": "1",
+        "tani": "1",
+        "kikan": "集中",
+        "tantousya": "授業担当者",
+        "numbering": "AYC007A0",
+        "gakka": "Q",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=AYC007A0&value(crclumcd)=10201200"
     },
     {
         "kougi": "デザイン思考実践演習<R科>",
@@ -21520,16 +21570,6 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=17CC10A0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "世界と人間<U科>",
-        "nenji": "1",
-        "tani": "2",
-        "kikan": "前期",
-        "tantousya": "大谷真弓 松浦清",
-        "numbering": "A0C001J0",
-        "gakka": "U",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A0C001J0&value(crclumcd)=10201200"
-    },
-    {
         "kougi": "環境量論基礎",
         "nenji": "1",
         "tani": "2",
@@ -21934,7 +21974,7 @@
         "nenji": "2",
         "tani": "2",
         "kikan": "前期",
-        "tantousya": "未定",
+        "tantousya": "蓑田哲生 加賀田翔",
         "numbering": "16CC09A0",
         "gakka": "V",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=16CC09A0&value(crclumcd)=10201200"
@@ -21954,8 +21994,8 @@
         "nenji": "2",
         "tani": "2",
         "kikan": "前期",
-        "tantousya": "未定",
-        "numbering": "16CC13A0",
+        "tantousya": "蓑田哲生 加賀田翔",
+        "numbering": "16CC13A0 16CE02A0",
         "gakka": "V",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=16CC13A0&value(crclumcd)=10201200"
     },
@@ -22048,16 +22088,6 @@
         "numbering": "16CD12A0",
         "gakka": "V",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=16CD12A0&value(crclumcd)=10201200"
-    },
-    {
-        "kougi": "電気設備工学",
-        "nenji": "2",
-        "tani": "2",
-        "kikan": "前期",
-        "tantousya": "簑田哲夫",
-        "numbering": "16CE02A0",
-        "gakka": "V",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=16CE02A0&value(crclumcd)=10201200"
     },
     {
         "kougi": "エネルギー機能材料",
