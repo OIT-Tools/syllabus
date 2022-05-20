@@ -46,6 +46,20 @@ class SyllabusTool:
         numbers_duplicate_check.sort()
         return numbers
 
+
+    # requests get
+    def get_requests(self, url: str):
+        try:
+            res = requests.get(url, timeout=9.0).text
+            res.replace(",", "、")
+        except (Timeout, ConnectionError):
+            print("\nError url:" + url)
+            sleep(3)
+            res = requests.get(url, timeout=9.0).text
+            res.replace(",", "、")
+
+        return res
+
     # スクレイピングし、dataframeをリストに変換
     def scraping(self, number: str):
         df_list = list()
@@ -54,13 +68,11 @@ class SyllabusTool:
             number + "&value(crclumcd)=10201200"
 
         try:
-            dfs = pd.read_html((requests.get(
-                url, timeout=9.0).text).replace(",", "、"))
+            dfs = pd.read_html(self.get_requests(url), encoding="utf-8")
         except (Timeout, ConnectionError):
             print("\nError numbering:" + number)
             sleep(3)
-            dfs = pd.read_html((requests.get(
-                url, timeout=9.0).text).replace(",", "、"))
+            dfs = pd.read_html(self.get_requests(url), encoding="utf-8")
 
         if len(dfs) > 2:
             for i in range(1, len(dfs)):
