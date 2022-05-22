@@ -6740,6 +6740,16 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=1BCM21A0&value(crclumcd)=10201200"
     },
     {
+        "kougi": "Webサービス論",
+        "nenji": "3",
+        "tani": "2",
+        "kikan": "後期",
+        "tantousya": "須永宏",
+        "numbering": "1BCM22A0",
+        "gakka": "I",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=1BCM22A0&value(crclumcd)=10201200"
+    },
+    {
         "kougi": "経営システム論II",
         "nenji": "3",
         "tani": "2",
@@ -12624,16 +12634,6 @@
         "nenji": "4",
         "tani": "0",
         "kikan": "通年(卒研)",
-        "tantousya": "北代真一",
-        "numbering": "2AA001K0",
-        "gakka": "P",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=2AA001K0&value(crclumcd)=10201200"
-    },
-    {
-        "kougi": "卒業研究",
-        "nenji": "4",
-        "tani": "0",
-        "kikan": "通年(卒研)",
         "tantousya": "尾茂康雄",
         "numbering": "2AA001L0",
         "gakka": "P",
@@ -13118,16 +13118,6 @@
         "numbering": "2AAE03J0",
         "gakka": "P",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=2AAE03J0&value(crclumcd)=10201200"
-    },
-    {
-        "kougi": "卒業研究",
-        "nenji": "4",
-        "tani": "4",
-        "kikan": "通年(卒研)",
-        "tantousya": "北代真一",
-        "numbering": "2AAE03K0",
-        "gakka": "P",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=2AAE03K0&value(crclumcd)=10201200"
     },
     {
         "kougi": "卒業研究",
@@ -19144,7 +19134,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "前期",
-        "tantousya": "横山広充 岩田英樹 布施宏 加藤教之 近藤隆路 辻田大地 上山健司 倉田晃希",
+        "tantousya": "横山広充 岩田英樹 布施宏 加藤教之 近藤隆路 辻田大地 上山健司 竹村昌則 倉田晃希",
         "numbering": "3ACA03M0 3DCC11M0",
         "gakka": "S",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3ACA03M0&value(crclumcd)=10201200"
