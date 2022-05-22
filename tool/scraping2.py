@@ -51,12 +51,12 @@ class SyllabusTool:
     def get_requests(self, url: str):
         try:
             res = requests.get(url, timeout=9.0).text
-            res.replace(",", "、")
+            res = re.sub(r",|，", "、", res)
         except (Timeout, ConnectionError):
             print("\nError url:" + url)
             sleep(3)
             res = requests.get(url, timeout=9.0).text
-            res.replace(",", "、")
+            res = re.sub(r",|，", "、", res)
 
         return res
 
