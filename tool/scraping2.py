@@ -50,13 +50,18 @@ class SyllabusTool:
     # requests get
     def get_requests(self, url: str):
         try:
-            res = requests.get(url, timeout=9.0).text
-            res = re.sub(r",|，", "、", res)
+            res = self.response(url)
         except (Timeout, ConnectionError):
             print("\nError url:" + url)
             sleep(3)
-            res = requests.get(url, timeout=9.0).text
-            res = re.sub(r",|，", "、", res)
+            res = self.response(url)
+
+        return res
+
+    def response(self, url):
+        res = requests.get(url, timeout=9.0).text
+        res = unicodedata.normalize("NFKC", res)
+        res = res.replace(",", "、")
 
         return res
 
