@@ -1,5 +1,33 @@
 # OIT Syllabus App
 
+## 使い方
+
+<img src="https://raw.githubusercontent.com/yashikota/OIT-Tools_syllabus/master/web/src/ss.webp" alt="トップ画面">
+
+<text>
+
+①OIT-Toolsホームページへのリンクになってます  
+②使い方やプログラムの説明をしているこのページ  
+③タップするとライトテーマ・ダークテーマを切り替えます  
+④表示するシラバスの年度を指定できます  
+⑤テーブル全体の要素を検索します  
+⑥昇順降順のソートを切り替えます  
+⑦この下の列だけを検索します。各列の検索結果は重複して適応可能です  
+⑧プルダウンメニューで絞り込みができます  
+⑨公式シラバスの該当するページを表示します  
+⑩表示する行数を変更できます  
+⑪一番最初のページに戻る  
+⑫一つ前のページに戻る  
+⑬一つ次のページに進む  
+⑭一番最後のページに進む  
+
+※ホーム画面への追加方法は以下のリンクをご参照ください  
+[iOS・Androidの追加方法](https://support.bccks.jp/faq/pwa_2020/)
+(手順1は飛ばす)  
+[PC(Chrome・Edge)の追加方法](https://support.google.com/chrome/answer/9658361)  
+
+</text>
+
 <img src="https://raw.githubusercontent.com/yashikota/OIT-Tools_syllabus/master/web/public/icon.webp" width="50%" alt="ロゴ">
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/yashikota/OIT-Tools_syllabus?label=version&style=plastic)
@@ -38,35 +66,7 @@ Contributed by
 
 </text>
 
-## 使い方
-
-<img src="https://raw.githubusercontent.com/yashikota/OIT-Tools_syllabus/master/web/src/ss.webp" alt="トップ画面">
-
-<text>
-
-①OIT-Toolsホームページへのリンクになってます  
-②使い方やプログラムの説明をしているこのページ  
-③タップするとライトテーマ・ダークテーマを切り替えます  
-④表示するシラバスの年度を指定できます  
-⑤テーブル全体の要素を検索します  
-⑥昇順降順のソートを切り替えます  
-⑦この下の列だけを検索します。各列の検索結果は重複して適応可能です  
-⑧プルダウンメニューで絞り込みができます  
-⑨公式シラバスの該当するページを表示します  
-⑩表示する行数を変更できます  
-⑪一番最初のページに戻る  
-⑫一つ前のページに戻る  
-⑬一つ次のページに進む  
-⑭一番最後のページに進む  
-
-※ホーム画面への追加方法は以下のリンクをご参照ください  
-[iOS・Androidの追加方法](https://support.bccks.jp/faq/pwa_2020/)
-(手順1は飛ばす)  
-[PC(Chrome・Edge)の追加方法](https://support.google.com/chrome/answer/9658361)  
-
-</text>
-
-## Q&A
+<!-- ## Q&A
 
 ## プログラムの説明
 
@@ -112,9 +112,9 @@ Cloudflare Pagesにホスティング
 ・202*mini.json  
 容量制限回避のため、一部要素のみが入ったjson  
 
-</text>
+</text> -->
 
-### ディレクトリ構造
+<!-- ### ディレクトリ構造
 
 <pre>
 .
@@ -179,6 +179,6 @@ Cloudflare Pagesにホスティング
     │   │       Registration.ts
     │   └── ss.webp
     └── tsconfig.json
-</pre>
+</pre> -->
 
 <!-- エラー数=1106 -->
