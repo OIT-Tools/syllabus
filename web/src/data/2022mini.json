@@ -4654,7 +4654,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "竹内 壽男 未定",
+        "tantousya": "小池 一歩 竹内 壽男",
         "numbering": "AYC001F0",
         "gakka": "D",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=AYC001F0&value(crclumcd)=10201200"
@@ -4664,7 +4664,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
-        "tantousya": "竹内 壽男 小池 一歩 廣芝 伸哉",
+        "tantousya": "小池 一歩 竹内 壽男 廣芝 伸哉",
         "numbering": "AYC002F0",
         "gakka": "D",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=AYC002F0&value(crclumcd)=10201200"
@@ -16530,7 +16530,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3ACA07L0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "基礎情報処理",
+        "kougi": "基礎情報処理[MS]",
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
@@ -16740,7 +16740,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3CCA01L0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "電気回路II【後半】",
+        "kougi": "電気回路II[MS]【後半】",
         "nenji": "2",
         "tani": "2",
         "kikan": "前期(後半)",
@@ -16760,7 +16760,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3CCA06L0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "基礎機械力学【前半】",
+        "kougi": "基礎機械力学[MS]【前半】",
         "nenji": "2",
         "tani": "2",
         "kikan": "後期(前半)",
@@ -16820,7 +16820,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3CCB08L0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "画像工学【前半】",
+        "kougi": "画像工学[MS]【前半】",
         "nenji": "3",
         "tani": "2",
         "kikan": "後期(前半)",
@@ -16840,7 +16840,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3CCB10L0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "ヒューマンインタフェース【前半】",
+        "kougi": "ヒューマンインタフェース[MS]【前半】",
         "nenji": "3",
         "tani": "2",
         "kikan": "後期(前半)",
@@ -17080,7 +17080,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=E0C0053A&value(crclumcd)=10201200"
     },
     {
-        "kougi": "倫理学【後半】",
+        "kougi": "倫理学[MS]【後半】",
         "nenji": "2",
         "tani": "1",
         "kikan": "前期(後半)",
@@ -17090,7 +17090,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=E0C0063A&value(crclumcd)=10201200"
     },
     {
-        "kougi": "倫理学【前半】",
+        "kougi": "倫理学[MS]【前半】",
         "nenji": "2",
         "tani": "1",
         "kikan": "前期(前半)",
@@ -17640,7 +17640,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=E1C0183A&value(crclumcd)=10201200"
     },
     {
-        "kougi": "キャリアデザイン",
+        "kougi": "キャリアデザイン[MS]",
         "nenji": "1",
         "tani": "1",
         "kikan": "前期",
@@ -17860,7 +17860,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=E4C011L0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "工学倫理",
+        "kougi": "工学倫理[MS]",
         "nenji": "1",
         "tani": "2",
         "kikan": "前期",
@@ -17880,7 +17880,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=E4C0133A&value(crclumcd)=10201200"
     },
     {
-        "kougi": "ものづくりマネジメント(技術を生かす経営)【前半】",
+        "kougi": "ものづくりマネジメント(技術を生かす経営)[MS]【前半】",
         "nenji": "3",
         "tani": "2",
         "kikan": "後期(前半)",
@@ -17900,7 +17900,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=E4C017L0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "工学倫理【前半】",
+        "kougi": "工学倫理[MS]【前半】",
         "nenji": "1",
         "tani": "1",
         "kikan": "前期(前半)",
@@ -18080,7 +18080,7 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3DAD01M0&value(crclumcd)=10201200"
     },
     {
-        "kougi": "計測工学【前半】",
+        "kougi": "計測工学[MS]【前半】",
         "nenji": "1",
         "tani": "2",
         "kikan": "前期(前半)",
@@ -19334,7 +19334,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "集中",
-        "tantousya": "村川 一雄 内藤 浩樹 三浦 武範 杉浦 淳 角田 全功 榎本 吉孝",
+        "tantousya": "村川 一雄 内藤 浩樹 三浦 武範 杉浦 淳 角田 全功 榎本 吉孝 吉田 直樹 デビッド アルバグリ 奥山 尚一 田浪 和生",
         "numbering": "MPCC08A0",
         "gakka": "T",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=MPCC08A0&value(crclumcd)=10201200"
@@ -19404,8 +19404,8 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "集中",
-        "tantousya": "村川 一雄 内藤 浩樹 三浦 武範 杉浦 淳 角田 全功 榎本 吉孝",
-        "numbering": "MPCC22A0 MPCC29A0",
+        "tantousya": "村川 一雄 内藤 浩樹 三浦 武範 杉浦 淳 角田 全功 榎本 吉孝 吉田 直樹 デビッド アルバグリ 奥山 尚一 田浪 和生",
+        "numbering": "MPCC22A0",
         "gakka": "T",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=MPCC22A0&value(crclumcd)=10201200"
     },
@@ -19448,6 +19448,16 @@
         "numbering": "MPCC27A0",
         "gakka": "T",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=MPCC27A0&value(crclumcd)=10201200"
+    },
+    {
+        "kougi": "Intellectual Property Studies (Summer Intensive)",
+        "nenji": "1",
+        "tani": "2",
+        "kikan": "集中",
+        "tantousya": "村川 一雄 内藤 浩樹 三浦 武範 杉浦 淳 角田 全功 榎本 吉孝 デビッド アルバグリ 吉田 直樹 奥山 尚一 田浪 和生",
+        "numbering": "MPCC29A0",
+        "gakka": "T",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=MPCC29A0&value(crclumcd)=10201200"
     },
     {
         "kougi": "知的財産評価特論【MR】",
@@ -23881,7 +23891,7 @@
     },
     {
         "kougi": "建築インターンシップ",
-        "nenji": "2",
+        "nenji": "1",
         "tani": "4",
         "kikan": "集中",
         "tantousya": "福原 和則 郡 裕美",
