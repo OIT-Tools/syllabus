@@ -11504,7 +11504,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "羽賀 俊雄 伊與田 宗慶 鵜飼 孝博 原口 真 山浦 真一",
+        "tantousya": "羽賀 俊雄 伊與田 宗慶 鵜飼 孝博 原口 真 山浦 真一 越川 翔生 西村 佳那子 松田 大",
         "numbering": "A3C030C0 A3C034C0",
         "gakka": "M",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C030C0&value(crclumcd)=10201200"
@@ -11514,7 +11514,7 @@
         "nenji": "1",
         "tani": "1",
         "kikan": "後期",
-        "tantousya": "羽賀 俊雄 伊與田 宗慶 鵜飼 孝博 原口 真 山浦 真一",
+        "tantousya": "羽賀 俊雄 伊與田 宗慶 鵜飼 孝博 原口 真 山浦 真一 越川 翔生 西村 佳那子 松田 大",
         "numbering": "A3C037C0",
         "gakka": "M",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=A3C037C0&value(crclumcd)=10201200"
@@ -16095,7 +16095,7 @@
         "tani": "2",
         "kikan": "前期",
         "tantousya": "疋田 祥人",
-        "numbering": "ATD0051A",
+        "numbering": "ATD0051A ETD0073A",
         "gakka": "Q",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=ATD0051A&value(crclumcd)=10201200"
     },
@@ -16524,7 +16524,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "後期",
-        "tantousya": "松井 哲也 吉川 雅博 金谷 直樹 川口 圭太 川畑 公人 倉田 晃希",
+        "tantousya": "松井 哲也 吉川 雅博 小田 美沙紀 川口 圭太 川畑 公人 倉田 晃希",
         "numbering": "3ACA07L0",
         "gakka": "R",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3ACA07L0&value(crclumcd)=10201200"
@@ -16894,7 +16894,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "後期",
-        "tantousya": "松井 哲也 吉川 雅博 金谷 直樹 川口 圭太 川畑 公人 倉田 晃希",
+        "tantousya": "松井 哲也 吉川 雅博 小田 美沙紀 川口 圭太 川畑 公人 倉田 晃希",
         "numbering": "3CCD02L0",
         "gakka": "R",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3CCD02L0&value(crclumcd)=10201200"
@@ -17920,16 +17920,6 @@
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=ETD0013A&value(crclumcd)=10201200"
     },
     {
-        "kougi": "教育行政",
-        "nenji": "2",
-        "tani": "2",
-        "kikan": "前期",
-        "tantousya": "疋田 祥人",
-        "numbering": "ETD0073A",
-        "gakka": "R",
-        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=ETD0073A&value(crclumcd)=10201200"
-    },
-    {
         "kougi": "デザイン思考実践演習",
         "nenji": "1",
         "tani": "1",
@@ -17964,7 +17954,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "後期",
-        "tantousya": "横山 広充 梅田 武宏 大石 浩介 小田 美沙紀 川田 有宏",
+        "tantousya": "横山 広充 梅田 武宏 大石 浩介 金谷 直樹 川田 有宏",
         "numbering": "3ACA07M0",
         "gakka": "S",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=3ACA07M0&value(crclumcd)=10201200"
@@ -18484,7 +18474,7 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "前期",
-        "tantousya": "マーティン メリック",
+        "tantousya": "ジョセフ レデスマ",
         "numbering": "F0CB0102",
         "gakka": "T",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=F0CB0102&value(crclumcd)=10201200"
@@ -19394,8 +19384,8 @@
         "nenji": "1",
         "tani": "2",
         "kikan": "後期集中",
-        "tantousya": "内藤 浩樹 髙橋 寛 松井 章浩 村川 一雄 杉浦 淳",
-        "numbering": "MPCC21A0 MPCC28A0",
+        "tantousya": "内藤 浩樹 村川 一雄 杉浦 淳 髙橋 寛 松井 章浩 井村 誠 北代 真一 吉田 悦子",
+        "numbering": "MPCC21A0",
         "gakka": "T",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=MPCC21A0&value(crclumcd)=10201200"
     },
@@ -19448,6 +19438,16 @@
         "numbering": "MPCC27A0",
         "gakka": "T",
         "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=MPCC27A0&value(crclumcd)=10201200"
+    },
+    {
+        "kougi": "Intellectual Property Studies III",
+        "nenji": "1",
+        "tani": "2",
+        "kikan": "後期集中",
+        "tantousya": "内藤 浩樹 髙橋 寛 松井 章浩 村川 一雄 杉浦 淳 井村 誠 北代 真一 吉田 悦子",
+        "numbering": "MPCC28A0",
+        "gakka": "T",
+        "link": "https://www.portal.oit.ac.jp/CAMJWEB/slbssbdr.do?value(risyunen)=2022&value(semekikn)=1&value(kougicd)=MPCC28A0&value(crclumcd)=10201200"
     },
     {
         "kougi": "Intellectual Property Studies (Summer Intensive)",
