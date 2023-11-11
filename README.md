@@ -1,5 +1,13 @@
 # OIT Syllabus App
 
+> [!IMPORTANT]  
+> バージョン1は開発を終了したため、バージョン2をご利用下さい。  
+> <https://syllabus.oit.yashikota.com>
+>
+> バージョン2のリポジトリはこちら。  
+> フロントエンド: <https://github.com/oit-tools/syllabus-frontend>  
+> スクレイピング: <https://github.com/oit-tools/syllabus-scraping>  
+
 ## 使い方
 
 <img src="https://raw.githubusercontent.com/yashikota/OIT-Tools_syllabus/master/web/src/ss.webp" alt="トップ画面">  
