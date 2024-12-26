@@ -8,7 +8,7 @@
 > frontend: <https://github.com/yashikota/syllabus-frontend>  
 > scraping: <https://github.com/yashikota/syllabus-scraping>  
 
-<img src="https://raw.githubusercontent.com/yashikota/syllabus-v1/master/web/public/icon.webp" width="30%" alt="ロゴ">
+<img src="https://raw.githubusercontent.com/yashikota/syllabus-v1/refs/heads/master/web/public/icon.webp" width="30%" alt="ロゴ">
 
 Contributed by
 [kota](https://github.com/yashikota)
